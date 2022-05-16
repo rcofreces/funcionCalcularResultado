@@ -1,0 +1,2 @@
+# funcionCalcularResultado
+Created with CodeSandbox
